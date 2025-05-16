@@ -1,0 +1,5 @@
+# Ignore node_modules in any subdirectory
+**/node_modules/
+
+# Ignore .env in any subdirectory
+**/.env
